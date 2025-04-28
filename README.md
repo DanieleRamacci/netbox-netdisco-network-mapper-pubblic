@@ -14,7 +14,7 @@ Slide presentazione https://agenda.infn.it/event/40160/contributions/230230/atta
 
 ## Indice della Documentazione
 
-- [Introduzione al Progetto](docs/introduction.md)): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
+- [Introduzione al Progetto](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/introduction.md)): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
 
 - [API NetBox](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/api_netbox.md): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
 
