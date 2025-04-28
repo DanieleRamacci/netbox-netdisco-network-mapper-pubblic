@@ -9,7 +9,7 @@ Questo progetto, attualmente in fase di sviluppo, mira a facilitare l'integrazio
 
 - [Introduzione al Progetto](docs/introduction.md): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
 
-- [API NetBox](docs/api_netbox.md): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
+- [API NetBox](/api_netbox.md): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
 
 - [API Netdisco](docs/api_netdisco.md): Informazioni sull'uso delle API di Netdisco per la scoperta di rete e il tracciamento dei dispositivi.
 
