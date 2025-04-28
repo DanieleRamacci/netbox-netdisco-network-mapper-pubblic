@@ -14,17 +14,17 @@ Slide presentazione https://agenda.infn.it/event/40160/contributions/230230/atta
 
 ## Indice della Documentazione
 
-- [Introduzione al Progetto](docs/introduction.md): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
+- [Introduzione al Progetto]([docs/introduction.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/introduction.md)): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
 
-- [API NetBox](api_netbox.md): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
+- [API NetBox]([docs/api_netbox.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/api_netbox.md)): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
 
-- [API Netdisco](docs/api_netdisco.md): Informazioni sull'uso delle API di Netdisco per la scoperta di rete e il tracciamento dei dispositivi.
+- [API Netdisco]([docs/api_netdisco.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/api_netdisco.md)): Informazioni sull'uso delle API di Netdisco per la scoperta di rete e il tracciamento dei dispositivi.
 
-- [Creazione Hosts in NetBox](docs/create_hosts.md): Guida allo script per il caricamento "sporco" degli host in NetBox, utilizzando dati predefiniti.
+- [Creazione Hosts in NetBox]([docs/create_hosts.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/create_hosts.md)): Guida allo script per il caricamento "sporco" degli host in NetBox, utilizzando dati predefiniti.
 
-- [Creazione Switches in NetBox](docs/create_switches.md): Descrizione dello script per la creazione degli switch in NetBox, inclusa la preparazione e l'arricchimento dei dati.
+- [Creazione Switches in NetBox]([docs/create_switches.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/create_switches.md)): Descrizione dello script per la creazione degli switch in NetBox, inclusa la preparazione e l'arricchimento dei dati.
 
-- [Aggiornamento Switches in NetBox](docs/update_switches.md): Documentazione relativa allo script per l'aggiornamento delle informazioni degli switch in NetBox a partire dai dati di Netdisco.
+- [Aggiornamento Switches in NetBox]([docs/update_switches.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/update_switches.md)): Documentazione relativa allo script per l'aggiornamento delle informazioni degli switch in NetBox a partire dai dati di Netdisco.
 
 Per navigare nella documentazione, clicca sui link sopra per accedere direttamente ai file markdown corrispondenti. Questi documenti forniscono una guida dettagliata su come utilizzare e sfruttare al meglio gli script e le integrazioni sviluppate in questo progetto.
 
@@ -62,7 +62,7 @@ progetto/
 - **Virtual Machines**: Gestione delle macchine virtuali e delle loro relazioni con l'hardware fisico.
 - **Data Centers**: Documentazione delle ubicazioni fisiche, compresi i dettagli su rack e spazi.
 
-NetBox offre un'interfaccia utente web intuitiva e delle [API RESTful](https://netbox.apps.atlas.roma1.infn.it/api/schema/swagger-ui/) per l'interazione programmatica, consentendo agli sviluppatori di integrare facilmente NetBox con altri sistemi o di automatizzare processi di gestione della rete.
+NetBox offre un'interfaccia utente web intuitiva e delle [API RESTful]() per l'interazione programmatica, consentendo agli sviluppatori di integrare facilmente NetBox con altri sistemi o di automatizzare processi di gestione della rete.
 
 ## Netdisco: Gestione e Scoperta della Rete
 
@@ -74,7 +74,7 @@ Netdisco è un'applicazione web SNMP open source che offre funzionalità di scop
 - Cercare dispositivi per indirizzo IP, MAC, nome e altri attributi.
 - Visualizzare la storia delle connessioni di un dispositivo o di una porta.
 
-L'interfaccia utente web di Netdisco fornisce un accesso semplice e intuitivo a queste informazioni, mentre l'[API di Netdisco](http://t2-netdisco.roma1.infn.it:5000/swagger-ui/) permette l'integrazione con altri sistemi e la possibilità di automatizzare il monitoraggio e la gestione della rete.
+L'interfaccia utente web di Netdisco fornisce un accesso semplice e intuitivo a queste informazioni, mentre l'[API di Netdisco]() permette l'integrazione con altri sistemi e la possibilità di automatizzare il monitoraggio e la gestione della rete.
 
 ## Integrazione tra NetBox e Netdisco
 
