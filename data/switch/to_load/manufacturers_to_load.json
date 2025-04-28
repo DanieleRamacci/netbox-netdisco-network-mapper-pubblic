@@ -1,0 +1,39 @@
+[
+  {
+    "platforms": [
+      "ios-xe",
+      "ios"
+    ],
+    "name": "cisco",
+    "slug": "manufacturer-cisco",
+    "description": "",
+    "tags": "cisco"
+  },
+  {
+    "platforms": [
+      "junos"
+    ],
+    "name": "juniper",
+    "slug": "manufacturer-juniper",
+    "description": "",
+    "tags": "juniper"
+  },
+  {
+    "platforms": [
+      "3Com"
+    ],
+    "name": "3com",
+    "slug": "manufacturer-3com",
+    "description": "",
+    "tags": "3com"
+  },
+  {
+    "platforms": [
+      "hp"
+    ],
+    "name": "hp",
+    "slug": "manufacturer-hp",
+    "description": "",
+    "tags": "hp"
+  }
+]
