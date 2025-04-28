@@ -14,17 +14,17 @@ Slide presentazione https://agenda.infn.it/event/40160/contributions/230230/atta
 
 ## Indice della Documentazione
 
-- [Introduzione al Progetto]([docs/introduction.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/introduction.md)): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
+- [Introduzione al Progetto](docs/introduction.md)): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
 
-- [API NetBox]([docs/api_netbox.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/api_netbox.md)): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
+- [API NetBox](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/api_netbox.md): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
 
-- [API Netdisco]([docs/api_netdisco.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/api_netdisco.md)): Informazioni sull'uso delle API di Netdisco per la scoperta di rete e il tracciamento dei dispositivi.
+- [API Netdisco](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/api_netdisco.md): Informazioni sull'uso delle API di Netdisco per la scoperta di rete e il tracciamento dei dispositivi.
 
-- [Creazione Hosts in NetBox]([docs/create_hosts.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/create_hosts.md)): Guida allo script per il caricamento "sporco" degli host in NetBox, utilizzando dati predefiniti.
+- [Creazione Hosts in NetBox](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/create_hosts.md): Guida allo script per il caricamento "sporco" degli host in NetBox, utilizzando dati predefiniti.
 
-- [Creazione Switches in NetBox]([docs/create_switches.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/create_switches.md)): Descrizione dello script per la creazione degli switch in NetBox, inclusa la preparazione e l'arricchimento dei dati.
+- [Creazione Switches in NetBox](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/create_switches.md): Descrizione dello script per la creazione degli switch in NetBox, inclusa la preparazione e l'arricchimento dei dati.
 
-- [Aggiornamento Switches in NetBox]([docs/update_switches.md](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/update_switches.md)): Documentazione relativa allo script per l'aggiornamento delle informazioni degli switch in NetBox a partire dai dati di Netdisco.
+- [Aggiornamento Switches in NetBox](https://github.com/DanieleRamacci/netbox-netdisco-network-mapper-pubblic/blob/main/docs/update_switches.md): Documentazione relativa allo script per l'aggiornamento delle informazioni degli switch in NetBox a partire dai dati di Netdisco.
 
 Per navigare nella documentazione, clicca sui link sopra per accedere direttamente ai file markdown corrispondenti. Questi documenti forniscono una guida dettagliata su come utilizzare e sfruttare al meglio gli script e le integrazioni sviluppate in questo progetto.
 
