@@ -7,7 +7,7 @@ Questo progetto, attualmente in fase di sviluppo, mira a facilitare l'integrazio
 
 ## Indice della Documentazione
 
-- [Introduzione al Progetto](docs/introduction.md): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
+- [Introduzione al Progetto](./docs/introduction.md): Una panoramica generale del progetto, i suoi obiettivi e le tecnologie coinvolte.
 
 - [API NetBox](docs/api_netbox.md): Dettagli sull'utilizzo delle API di NetBox per la gestione dell'infrastruttura di rete e la documentazione.
 
