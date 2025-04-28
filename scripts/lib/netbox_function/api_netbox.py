@@ -61,7 +61,7 @@ class NBoxAPI:
         manufacturer_url = "<netbox-endpoint>/api/dcim/manufacturers/"
         platforms_url = "<netbox-endpoint>/api/dcim/platforms/"
 
-        token = "15fbe392b8f2860f3caf4f7cba0690fd0cf2f9d1"
+        token = "<token>"
 
         headers = {
             "accept": "application/json",
